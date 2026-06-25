@@ -9,7 +9,7 @@ The **♠️ Poker All-In Analyzer** is the most advanced poker equity calculato
 
 <div align="center">
 
-[![Download Poker All-In Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/poker-all-in-analyzer)
+[![Download Poker All-In Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/poker-all-in-analyzer)
 
 </div>
 
@@ -107,7 +107,7 @@ Without a calculator, you're guessing. Guessing costs money.
 7. **💰 Enter Pot Odds** — input pot size and call amount
 8. **📊 Get Analysis** — see equity, pot odds, and recommendation
 
-[![Download Poker All-In Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/poker-all-in-analyzer)
+[![Download Poker All-In Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/poker-all-in-analyzer)
 
 ### Hand vs Hand Analysis
 
@@ -206,7 +206,7 @@ One tool. Perfect decisions. Zero cost.
 
 <div align="center">
 
-[![Download Poker All-In Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://tinyurl.com/poker-all-in-analyzer)
+[![Download Poker All-In Analyzer](https://img.shields.io/badge/DOWNLOAD%20NOW-purple?style=for-the-badge&logo=github)](https://software-nation.com/poker-all-in-analyzer)
 
 **Version 2026.138.1** — Equity calculator. Pot odds. Free forever.
 
